@@ -1,0 +1,11 @@
+python directories required-
+fastf1
+pandas
+numpy
+scikit-learn
+xgboost
+streamlit
+matplotlib
+
+run in terminal-
+pip install pandas numpy matplotlib seaborn scikit-learn xgboost fastf1
